@@ -152,6 +152,7 @@ to avoid running this manually, you can add it as a new line to the end of your
 tensorflow/models/research on your system.
  
  5. **Replacing Object_Detection Folder**
+ 
  Clone or download my repository. From tensorflow/models/research/ replace the Object_Detection folder with the existing folder.
  
  ```bash
